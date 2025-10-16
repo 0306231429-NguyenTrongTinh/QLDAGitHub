@@ -1,0 +1,7 @@
+﻿@{
+    ViewData["Title"] = "Hồ sơ cá nhân";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Thông tin tài khoản</h2>
+<p><strong>Tên đăng nhập:</strong> @Context.Session.GetString("User")</p>
+<p>Đây là trang hồ sơ cá nhân của bạn.</p>

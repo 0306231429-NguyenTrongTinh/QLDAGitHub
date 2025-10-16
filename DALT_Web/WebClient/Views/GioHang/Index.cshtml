@@ -1,0 +1,30 @@
+﻿@model IEnumerable<DTO.GioHangDTO>
+    @{
+        ViewData["Title"] = "Giỏ hàng";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    <h2>Giỏ hàng của bạn</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+                <th>Tổng</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.TenSP</td>
+                    <td>@item.SoLuong</td>
+                    <td>@item.DonGia.ToString("N0") đ</td>
+                    <td>@((item.SoLuong * item.DonGia).ToString("N0")) đ</td>
+                    <td><a href="/GioHang/Remove?productId=@item.MaSP" class="btn btn-danger btn-sm">Xóa</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a href="/DonHang/Checkout" class="btn btn-success">Thanh toán</a>

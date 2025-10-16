@@ -1,0 +1,28 @@
+﻿@model IEnumerable<DTO.SanPhamDTO>
+    @{
+        ViewData["Title"] = "Kết quả tìm kiếm";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    <h2>Kết quả tìm kiếm</h2>
+    @if (!Model.Any())
+    {
+        <p>Không tìm thấy sản phẩm nào.</p>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var sp in Model)
+            {
+                <div class="col-md-3 mb-4">
+                    <div class="card">
+                        <img src="@sp.HinhAnh" class="card-img-top" />
+                        <div class="card-body text-center">
+                            <h6>@sp.TenSP</h6>
+                            <p>@sp.DonGia.ToString("N0") đ</p>
+                            <a href="/SanPham/Detail/@sp.MaSP" class="btn btn-primary btn-sm">Chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }

@@ -1,0 +1,27 @@
+﻿@model IEnumerable<DTO.DonHangDTO>
+    @{
+        ViewData["Title"] = "Lịch sử đơn hàng";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    <h2>Lịch sử đơn hàng</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Mã đơn</th>
+                <th>Ngày đặt</th>
+                <th>Tổng tiền</th>
+                <th>Trạng thái</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var dh in Model)
+            {
+                <tr>
+                    <td>@dh.MaDH</td>
+                    <td>@dh.NgayDat.ToString("dd/MM/yyyy")</td>
+                    <td>@dh.TongTien.ToString("N0") đ</td>
+                    <td>@dh.TrangThai</td>
+                </tr>
+            }
+        </tbody>
+    </table>

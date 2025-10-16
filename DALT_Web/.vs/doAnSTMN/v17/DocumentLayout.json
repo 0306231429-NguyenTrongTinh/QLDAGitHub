@@ -1,0 +1,1296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\sanphamaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\sanphamaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|d:\\hk4_webc\\th_windows\\homework\\doanw\\doanw\\doanstmn\\dto\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|solutionrelative:dto\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dto\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|solutionrelative:dto\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|d:\\hk4_webc\\th_windows\\homework\\doanw\\doanw\\doanstmn\\gui\\form\\doanhthungthnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\doanhthungthnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\doanhthungthnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\doanhthungthnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\thongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\thongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\thongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\thongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\themtk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\themtk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\tkkhmuanhieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\tkkhmuanhieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\chitietnhaphangaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\chitietnhaphangaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\nhaphangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\nhaphangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\nhaphangaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\nhaphangaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\chitietnhaphangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\chitietnhaphangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\nhacungcapaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\nhacungcapaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\loaisanphamaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\loaisanphamaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dto\\loaisanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|solutionrelative:dto\\loaisanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dto\\nhacungcapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|solutionrelative:dto\\nhacungcapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\nhanvienaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\nhanvienaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\khachhangaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\khachhangaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\khachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\khachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\maloaiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\maloaiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\maloaibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\maloaibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\themtk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\themtk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\hoadonaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\hoadonaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\chitiethoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\chitiethoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\khohangaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\khohangaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\sanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\sanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\tkdoanhthubll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\tkdoanhthubll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dal\\tkdoanhthuaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70126885-77E7-45BA-88FA-C000E136B0FA}|DAL\\DAL.csproj|solutionrelative:dal\\tkdoanhthuaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\tkkhmuanhieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\tkkhmuanhieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\thongkespbanchay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\thongkespbanchay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\thongkespbanchay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\thongkespbanchay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\chitiethoadon.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\chitiethoadon.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\chitietnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\chitietnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\chitietnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\chitietnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\gui\\form\\chitietnh.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0196E069-9772-46C6-A856-D01D6B0508A3}|GUI\\GUI.csproj|solutionrelative:gui\\form\\chitietnh.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\khohangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\khohangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dto\\chitietnhaphangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|solutionrelative:dto\\chitietnhaphangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dto\\nhaphangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|solutionrelative:dto\\nhaphangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dto\\khohangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|solutionrelative:dto\\khohangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\nhanvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\nhanvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\bll\\loaisanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5F6CD6-9B28-43D0-9D5F-3B55664ACC28}|BLL\\BLL.csproj|solutionrelative:bll\\loaisanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dto\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|solutionrelative:dto\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EEC07F-F254-4548-8DED-DBB9C1737621}|DTO\\DTO.csproj|solutionrelative:dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doAnSTMN\\BLL\\ktMaSpBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doAnSTMN\\DTO\\HoaDon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doAnSTMN\\DTO\\TaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "homePage.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\homePage.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\homePage.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\homePage.cs [Design]",
+              "RelativeToolTip": "GUI\\form\\homePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:29:20.829Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPhamDTO.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\SanPhamDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SanPhamDTO.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\SanPhamDTO.cs",
+              "RelativeToolTip": "DTO\\SanPhamDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:51:25.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoanhThuNgThNam.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\DoanhThuNgThNam.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\DoanhThuNgThNam.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\DoanhThuNgThNam.cs",
+              "RelativeToolTip": "GUI\\form\\DoanhThuNgThNam.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:06:11.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThongKeDoanhThu.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThongKeDoanhThu.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ThongKeDoanhThu.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThongKeDoanhThu.cs",
+              "RelativeToolTip": "GUI\\form\\ThongKeDoanhThu.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:24:49.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaiKhoanDTO.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\TaiKhoanDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\TaiKhoanDTO.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\TaiKhoanDTO.cs",
+              "RelativeToolTip": "DTO\\TaiKhoanDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:10:23.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\SanPhamAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\SanPhamAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\SanPhamAccess.cs",
+              "RelativeToolTip": "DAL\\SanPhamAccess.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwGAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:34:54.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBaseAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\DataBaseAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DataBaseAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\DataBaseAccess.cs*",
+              "RelativeToolTip": "DAL\\DataBaseAccess.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:50:21.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThongKeDoanhThu.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThongKeDoanhThu.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ThongKeDoanhThu.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThongKeDoanhThu.cs [Design]",
+              "RelativeToolTip": "GUI\\form\\ThongKeDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T01:14:21.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiKhoanAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\TaiKhoanAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\TaiKhoanAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\TaiKhoanAccess.cs",
+              "RelativeToolTip": "DAL\\TaiKhoanAccess.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwBAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:09:34.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\Login.cs",
+              "RelativeToolTip": "GUI\\Login.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwv0AAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:03:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "homePage.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\homePage.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\homePage.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\homePage.cs",
+              "RelativeToolTip": "GUI\\form\\homePage.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:56:48.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoanhThuNgThNam.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\DoanhThuNgThNam.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\DoanhThuNgThNam.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\DoanhThuNgThNam.cs [Design]",
+              "RelativeToolTip": "GUI\\form\\DoanhThuNgThNam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T01:29:11.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuanLyTaiKhoan.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\QuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\QuanLyTaiKhoan.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\QuanLyTaiKhoan.cs",
+              "RelativeToolTip": "GUI\\form\\QuanLyTaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:59:05.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuanLyTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\QuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\QuanLyTaiKhoan.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\QuanLyTaiKhoan.cs [Design]",
+              "RelativeToolTip": "GUI\\form\\QuanLyTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:49:04.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:02:59.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaiKhoanBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\TaiKhoanBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TaiKhoanBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\TaiKhoanBLL.cs",
+              "RelativeToolTip": "BLL\\TaiKhoanBLL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:18:48.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThemTK.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThemTK.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ThemTK.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThemTK.cs [Design]",
+              "RelativeToolTip": "GUI\\form\\ThemTK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:10:49.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TkKhMuaNhieu.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\TkKhMuaNhieu.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\TkKhMuaNhieu.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\TkKhMuaNhieu.cs [Design]",
+              "RelativeToolTip": "GUI\\form\\TkKhMuaNhieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:50:37.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChiTietNhapHangAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\ChiTietNhapHangAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\ChiTietNhapHangAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\ChiTietNhapHangAccess.cs",
+              "RelativeToolTip": "DAL\\ChiTietNhapHangAccess.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAqwCIAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:53:40.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChiTietNhapHang.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietNhapHang.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ChiTietNhapHang.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietNhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:58:20.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChiTietNhapHang.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietNhapHang.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ChiTietNhapHang.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietNhapHang.cs",
+              "RelativeToolTip": "GUI\\form\\ChiTietNhapHang.cs",
+              "ViewState": "AgIAAOEBAAAAAAAAAAAYwLQBAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T02:35:34.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NhapHang.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhapHang.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\NhapHang.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhapHang.cs",
+              "RelativeToolTip": "GUI\\form\\NhapHang.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:55:29.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NhapHangBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\NhapHangBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NhapHangBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\NhapHangBLL.cs",
+              "RelativeToolTip": "BLL\\NhapHangBLL.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:37:18.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NhapHangAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\NhapHangAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\NhapHangAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\NhapHangAccess.cs",
+              "RelativeToolTip": "DAL\\NhapHangAccess.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAA9wCoBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:26:19.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NhapHang.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhapHang.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\NhapHang.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:57:56.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ThanhToan.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ThanhToan.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThanhToan.cs",
+              "RelativeToolTip": "GUI\\form\\ThanhToan.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIAwwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:02:28.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChiTietNhapHangBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\ChiTietNhapHangBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ChiTietNhapHangBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\ChiTietNhapHangBLL.cs",
+              "RelativeToolTip": "BLL\\ChiTietNhapHangBLL.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:12:56.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ThanhToan.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ThanhToan.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:02:26.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NhaCungCap.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\NhaCungCap.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhaCungCap.cs",
+              "RelativeToolTip": "GUI\\form\\NhaCungCap.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAUwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:53:41.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NhaCungCap.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\NhaCungCap.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:55:20.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoaiSanPhamAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\LoaiSanPhamAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\LoaiSanPhamAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\LoaiSanPhamAccess.cs",
+              "RelativeToolTip": "DAL\\LoaiSanPhamAccess.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAawGMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:37:17.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NhaCungCapAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\NhaCungCapAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\NhaCungCapAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\NhaCungCapAccess.cs",
+              "RelativeToolTip": "DAL\\NhaCungCapAccess.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAADwvygAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:37:24.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoaiSanPhamDTO.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\LoaiSanPhamDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LoaiSanPhamDTO.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\LoaiSanPhamDTO.cs",
+              "RelativeToolTip": "DTO\\LoaiSanPhamDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:23:00.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\SanPham.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\SanPham.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\SanPham.cs",
+              "RelativeToolTip": "GUI\\form\\SanPham.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T01:46:58.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NhaCungCapDTO.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\NhaCungCapDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\NhaCungCapDTO.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\NhaCungCapDTO.cs",
+              "RelativeToolTip": "DTO\\NhaCungCapDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:19:14.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SanPham.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\SanPham.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\SanPham.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\SanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:40:09.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\KhachHang.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\KhachHang.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\KhachHang.cs",
+              "RelativeToolTip": "GUI\\form\\KhachHang.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAmwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:58:53.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "KhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\KhachHang.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\KhachHang.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:43:22.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhanVien.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\NhanVien.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhanVien.cs",
+              "RelativeToolTip": "GUI\\form\\NhanVien.cs",
+              "ViewState": "AgIAAMoBAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:31:13.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NhanVienAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\NhanVienAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\NhanVienAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\NhanVienAccess.cs",
+              "RelativeToolTip": "DAL\\NhanVienAccess.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAowM0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:04:05.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhanVien.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\NhanVien.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:45:09.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "KhachHangAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\KhachHangAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\KhachHangAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\KhachHangAccess.cs",
+              "RelativeToolTip": "DAL\\KhachHangAccess.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAJAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:37:07.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "QuanLyHoaDon.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\QuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\QuanLyHoaDon.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\QuanLyHoaDon.cs",
+              "RelativeToolTip": "GUI\\form\\QuanLyHoaDon.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAIwDUBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:10:53.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "KhachHangBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\KhachHangBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\KhachHangBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\KhachHangBLL.cs",
+              "RelativeToolTip": "BLL\\KhachHangBLL.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAnwEwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:43:14.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "QuanLyHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\QuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\QuanLyHoaDon.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\QuanLyHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:34:02.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\LoaiSanPham.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\LoaiSanPham.cs",
+              "RelativeToolTip": "GUI\\form\\LoaiSanPham.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA7wB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:06:52.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoaiSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\LoaiSanPham.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\LoaiSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:53:30.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MaLoaiBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\MaLoaiBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\MaLoaiBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\MaLoaiBLL.cs",
+              "RelativeToolTip": "BLL\\MaLoaiBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:40:26.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HoaDonBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\HoaDonBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\HoaDonBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\HoaDonBLL.cs",
+              "RelativeToolTip": "BLL\\HoaDonBLL.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAewDoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:34:52.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MaLoaiAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\MaLoaiAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\MaLoaiAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\MaLoaiAccess.cs",
+              "RelativeToolTip": "DAL\\MaLoaiAccess.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:17:42.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NhaCungCapBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\NhaCungCapBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NhaCungCapBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\NhaCungCapBLL.cs",
+              "RelativeToolTip": "BLL\\NhaCungCapBLL.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIAywDYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:03:43.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "KhoHang.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\KhoHang.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\KhoHang.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\KhoHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:57:43.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "KhoHang.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\KhoHang.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\KhoHang.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\KhoHang.cs",
+              "RelativeToolTip": "GUI\\form\\KhoHang.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAA9wH0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:57:49.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DoiMK.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\DoiMK.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\DoiMK.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\DoiMK.cs",
+              "RelativeToolTip": "GUI\\form\\DoiMK.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAIsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:27:26.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DoiMK.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\DoiMK.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\DoiMK.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\DoiMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:26:54.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ThemTK.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThemTK.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ThemTK.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThemTK.cs",
+              "RelativeToolTip": "GUI\\form\\ThemTK.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAuwLIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:10:52.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HoaDonAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\HoaDonAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\HoaDonAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\HoaDonAccess.cs",
+              "RelativeToolTip": "DAL\\HoaDonAccess.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAIwJ4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T06:59:17.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ChiTietHoaDonBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\ChiTietHoaDonBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ChiTietHoaDonBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\ChiTietHoaDonBLL.cs",
+              "RelativeToolTip": "BLL\\ChiTietHoaDonBLL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:36:53.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SanPhamBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\SanPhamBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\SanPhamBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\SanPhamBLL.cs",
+              "RelativeToolTip": "BLL\\SanPhamBLL.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAhwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:20:29.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "KhoHangAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\KhoHangAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\KhoHangAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\KhoHangAccess.cs",
+              "RelativeToolTip": "DAL\\KhoHangAccess.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:37:12.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ThongKeSpBanChay.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThongKeSpBanChay.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ThongKeSpBanChay.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThongKeSpBanChay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T01:08:16.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TkDoanhThuAccess.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\TkDoanhThuAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\TkDoanhThuAccess.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DAL\\TkDoanhThuAccess.cs",
+              "RelativeToolTip": "DAL\\TkDoanhThuAccess.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwE0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:30:48.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TkDoanhThuBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\TkDoanhThuBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TkDoanhThuBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\TkDoanhThuBLL.cs",
+              "RelativeToolTip": "BLL\\TkDoanhThuBLL.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:34:09.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TkKhMuaNhieu.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\TkKhMuaNhieu.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\TkKhMuaNhieu.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\TkKhMuaNhieu.cs",
+              "RelativeToolTip": "GUI\\form\\TkKhMuaNhieu.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:53:41.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ThongKeSpBanChay.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThongKeSpBanChay.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ThongKeSpBanChay.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ThongKeSpBanChay.cs",
+              "RelativeToolTip": "GUI\\form\\ThongKeSpBanChay.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T01:08:17.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "GUI\\form\\ChiTietHoaDon.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:47:45.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ChiTietHoaDon.rdlc [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietHoaDon.rdlc",
+              "RelativeDocumentMoniker": "GUI\\form\\ChiTietHoaDon.rdlc",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietHoaDon.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-03T13:50:37.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ChiTietHoaDon.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:46:14.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ChiTietNH.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietNH.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ChiTietNH.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietNH.cs",
+              "RelativeToolTip": "GUI\\form\\ChiTietNH.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:03:04.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ChiTietNH.cs [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietNH.cs",
+              "RelativeDocumentMoniker": "GUI\\form\\ChiTietNH.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietNH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:48:58.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ChiTietNH.rdlc [Design]",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietNH.rdlc",
+              "RelativeDocumentMoniker": "GUI\\form\\ChiTietNH.rdlc",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\GUI\\form\\ChiTietNH.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-03T13:50:30.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "KhoHangBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\KhoHangBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\KhoHangBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\KhoHangBLL.cs",
+              "RelativeToolTip": "BLL\\KhoHangBLL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:12:44.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ChiTietNhapHangDTO.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\ChiTietNhapHangDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietNhapHangDTO.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\ChiTietNhapHangDTO.cs",
+              "RelativeToolTip": "DTO\\ChiTietNhapHangDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:00:44.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "NhapHangDTO.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\NhapHangDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\NhapHangDTO.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\NhapHangDTO.cs",
+              "RelativeToolTip": "DTO\\NhapHangDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:25:48.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "KhoHangDTO.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\KhoHangDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\KhoHangDTO.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\KhoHangDTO.cs",
+              "RelativeToolTip": "DTO\\KhoHangDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:18:14.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "NhanVienBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\NhanVienBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NhanVienBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\NhanVienBLL.cs",
+              "RelativeToolTip": "BLL\\NhanVienBLL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAywCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:38:38.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "LoaiSanPhamBLL.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\LoaiSanPhamBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\LoaiSanPhamBLL.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\BLL\\LoaiSanPhamBLL.cs",
+              "RelativeToolTip": "BLL\\LoaiSanPhamBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:50:18.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ktMaSpBLL.cs",
+              "DocumentMoniker": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doAnSTMN\\BLL\\ktMaSpBLL.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doAnSTMN\\BLL\\ktMaSpBLL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:16:06.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doAnSTMN\\DTO\\HoaDon.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doAnSTMN\\DTO\\HoaDon.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:34:57.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doAnSTMN\\DTO\\TaiKhoan.cs",
+              "ToolTip": "C:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doAnSTMN\\DTO\\TaiKhoan.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:02:17.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "NhanVienDTO.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\NhanVienDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\NhanVienDTO.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\NhanVienDTO.cs",
+              "RelativeToolTip": "DTO\\NhanVienDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:09:37.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "KhachHangDTO.cs",
+              "DocumentMoniker": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\KhachHangDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\KhachHangDTO.cs",
+              "ToolTip": "D:\\Hk4_WebC\\TH_Windows\\homework\\doanW\\doanW\\doAnSTMN\\DTO\\KhachHangDTO.cs",
+              "RelativeToolTip": "DTO\\KhachHangDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:15:31.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
