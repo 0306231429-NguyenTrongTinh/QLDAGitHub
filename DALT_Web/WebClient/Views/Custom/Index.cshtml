@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Trang Tùy Chỉnh";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="text-center mb-5">
+        <h1 class="display-5 fw-bold text-primary">🌈 Trang Tùy Chỉnh (Custom Page)</h1>
+        <p class="lead text-muted">Đây là trang riêng của bạn – có thể thay đổi nội dung tùy ý</p>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm border-0 rounded-3">
+                <div class="card-body p-4">
+                    <h4 class="fw-semibold text-dark mb-3">Giới thiệu nhóm</h4>
+                    <p>
+                        Nhóm <strong>MTPTPM</strong> thực hiện dự án web bán hàng gồm các thành viên:
+                    </p>
+                    <ul class="list-group list-group-flush mb-4">
+                        <li class="list-group-item">👑 <strong>Nguyễn Trọng Tính</strong> – Leader, phụ trách giao diện và logic</li>
+                        <li class="list-group-item">💻 Thành viên 2 – Quản lý Admin (WinForms)</li>
+                        <li class="list-group-item">🛍️ Thành viên 3 – Thiết kế WebClient</li>
+                        <li class="list-group-item">📦 Thành viên 4 – Quản lý cơ sở dữ liệu</li>
+                    </ul>
+
+                    <h5 class="fw-semibold text-success">Thông tin dự án</h5>
+                    <p>
+                        Dự án được phát triển bằng <strong>ASP.NET Core MVC</strong> và <strong>WinForms</strong> với mô hình đa tầng (3 lớp):
+                    </p>
+                    <ul>
+                        <li>🧩 DTO – Data Transfer Objects</li>
+                        <li>💾 DAL – Data Access Layer</li>
+                        <li>⚙️ BLL – Business Logic Layer</li>
+                    </ul>
+
+                    <div class="text-center mt-4">
+                        <a href="/" class="btn btn-outline-primary px-4">⬅ Trở về Trang chủ</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        console.log("Trang Custom đã tải thành công 🎉");
+    </script>
+}
